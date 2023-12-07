@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaziyaThabasum7386
-- 👀 I’m interested to work in FRONTEND javascript devoloper
-- 🌱 I’m currently learning FULL STACK DEVOLOPMENT
+- 👀 I’m interested to work in FRONTEND javascript developer
+- 🌱 I’m currently learning FULL STACK DEVELOPMENT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
